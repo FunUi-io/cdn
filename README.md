@@ -1,6 +1,8 @@
-<h1>Getting Started</h1>
-Download the funcss framework to start creating awesome responsive website for free.
-You can also use the funcss cdn.
+<h1>FunUi For React And Next Apps</h1>
+<center><img src="https://funui.netlify.app/favicon.png" width="50"></center>
+<h3>Learn how to use the framework at our official website 👎</h3>
+https://funui.netlify.app
+
 
 <h3>Using Npm</h3>
 Install the package via NPM
@@ -32,5 +34,7 @@ You can also import the CDN in your CSS file
 
 <h3>Download</h3>
 Download the CSS File and link it to your HTML Document
+
 https://github.com/FunUi-io/cdn/archive/refs/heads/main.zip
-<link rel="stylesheet" href="./css/fun.css">
+
+<pre><link rel="stylesheet" href="./css/fun.css"></pre>
