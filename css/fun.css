@@ -218,6 +218,9 @@ input {
 
 
 /* width */
+.width{width:var(--width)}
+.max-width{max-width:var(--maxWidth)}
+.min-width{min-width:var(--minWidth)}
 .width-10-p {
   width: 10% !important;
 }
@@ -523,6 +526,9 @@ input {
 }
 
 /*Heights*/
+.height{height:var(--height)}
+.max-height{max-height:var(--maxHeight)}
+.min-height{min-height:var(--minHeight)}
 .height-10-p {
   height: 10%;
 }
@@ -824,6 +830,7 @@ h6,
 }
 
 /*margin*/
+.margin{margin:var(--margin)}
 .margin {
   margin: 10px !important;
 }
@@ -993,6 +1000,7 @@ h6,
   margin-bottom: 100px;
 }
 /*padding*/
+.padding{padding:var(--padding)}
 .padding {
   padding: 10px !important;
 }
