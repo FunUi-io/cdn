@@ -1735,37 +1735,13 @@ h6,
 }
 .card-body,
 .card-header {
-  padding: 0.1rem 1rem;
+  padding: 0.3rem 1rem;
 }
 
 .card-footer {
   padding: 1rem 1rem 1.5rem 1rem;
 }
-.card-title {
-  position: absolute;
-  bottom: 10px;
-  left: 10px;
-}
-.card-title.top-left {
-  position: absolute;
-  top: 10px;
-  left: 10px;
-}
-.card-title.top-right {
-  position: absolute;
-  top: 10px;
-  right: 10px;
-}
-.card-title.bottom-left {
-  position: absolute;
-  bottom: 10px;
-  left: 10px;
-}
-.card-title.bottom-right {
-  position: absolute;
-  bottom: 10px;
-  right: 10px;
-}
+
 .card-fab {
   position: absolute;
   bottom: 0;
