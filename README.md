@@ -16,7 +16,7 @@ import 'funuicss/css/fun.css'
 </pre>
 
 <h3> Check Out Our Startup Template </h3>
-<pre>
+<xmp>
 import Typography from 'funuicss/component/Typography'
 import Icon from 'funuicss/component/Icon'
 import Button from 'funuicss/component/Button'
@@ -204,7 +204,7 @@ size="small"
 </Div>
 )
 }
-</pre>
+</xmp>
 
 <h3>CDN</h3>
 You can use the CDN for your HTML file, you can only use our css defined classes
